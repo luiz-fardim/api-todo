@@ -176,10 +176,10 @@ todo-api/
 ## 📸 Screenshots
 
 ### Criando uma tarefa — `POST /todos`
-![POST /todos](./assets/print-post.png)
+![POST /todos](https://raw.githubusercontent.com/luiz-fardim/api-todo/refs/heads/main/assets/print-post.PNG)
 
 ### Listando todas as tarefas — `GET /todos`
-![GET /todos](./assets/print-get.png)
+![GET /todos](https://raw.githubusercontent.com/luiz-fardim/api-todo/refs/heads/main/assets/print-get.PNG)
 
 ---
 
