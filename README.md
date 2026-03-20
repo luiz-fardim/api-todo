@@ -19,13 +19,15 @@ API simples e objetiva para criar, listar, atualizar e deletar tarefas (to-dos).
 ```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/todo-api.git
-cd todo-api
+cd api-todo
 
 # Instale as dependências
-npm install
+npm init -y
+npm i express better-sqlite3
+npm i -D nodemon
 
 # Inicie o servidor
-npm start
+npm run dev
 ```
 
 O servidor estará disponível em `http://localhost:3000`.
